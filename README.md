@@ -65,7 +65,7 @@ region       = "eu-central-1"
 Alternatively, override on CLI:
 
 ```bash
-terraform apply -var="project_name=my-project" -var="region=us-east-1"
+terraform apply -var="project_name=static-website" -var="region=eu-central-1"
 ```
 
 ### 3. Initialize Terraform
